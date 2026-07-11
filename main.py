@@ -1,6 +1,5 @@
 """
 Electromagnetism Simulator - little Qt toy for visualizing E/B fields from moving point charges.
-Started this as a demo for a physics class, kept adding stuff. Not production code, just have fun with it.
 """
 import itertools  # leftover from when I tried pairwise combinations for a force-graph experiment, unused now
 import math
